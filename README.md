@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!!</h2>
+<h2 align="left">Olá, meu nome é Gabriel Franco de Almeida! Seja bem vindo ao meu GitHub!</h2>
 
 ###
 
@@ -53,9 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GabAlmeida29/GabAlmeida29/output/snake.svg" alt="Snake animation" />
 
 ###
